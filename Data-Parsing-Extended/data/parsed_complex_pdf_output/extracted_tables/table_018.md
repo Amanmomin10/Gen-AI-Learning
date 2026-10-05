@@ -1,0 +1,6 @@
+| tem Group.     | Line Item.                                              | aty.      |               | ‘Tax Split._cGst   | ‘Tax Split.\scst   |               |
+|:---------------|:--------------------------------------------------------|:----------|:--------------|:-------------------|:-------------------|:--------------|
+| ERP Platform   | ‘Annual School360 Enterprise Subscription - 12 campuses | 1         | INR 11,00,000 | %                  | 9%                 | INR 12,98,000 |
+|                | Parent communication add-on - estimated Message pack    | | 200,000 | INR 0.38/msg  | | 9%               | | 9%               | INR 89,680    |
+| Implementation | |Data migration + training + go-live support            | | 1       | INR 2,40,000  | | 9%               | [9%                | INR 2,83,200  |
+| | Summary      | | Subtotal and taxes                                    | E         | INR 14,16,000 | [INR 1.27.40       | |INR1,27,440       | INR 16,70,880 |
